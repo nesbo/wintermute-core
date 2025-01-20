@@ -1,2 +1,2 @@
-# wintermute-core
+# Wintermute
 Wintermute - an AI software engineering assistant
